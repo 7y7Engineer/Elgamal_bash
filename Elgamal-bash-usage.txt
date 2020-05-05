@@ -1,0 +1,2 @@
+#./Elgamal.bash prime1 prime2 msg
+$ ./Elgamal.bash 11 2 3
